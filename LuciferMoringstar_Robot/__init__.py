@@ -28,14 +28,13 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name : MH Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : @Movieshouse8
 
 ➥ Language : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Library : Pata nahi 😅
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Join Now 🤟: [Click Me](https://t.me/movieshouse8)
 """
